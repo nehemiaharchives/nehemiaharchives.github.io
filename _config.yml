@@ -42,3 +42,4 @@ exclude:
   - vendor/ruby/
   - serve.bat
   - build.bat
+  - zanata.xml
