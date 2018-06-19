@@ -4,5 +4,9 @@
   <project>nehemiaharchive</project>
   <project-version>project-june-2018</project-version>
   <project-type>file</project-type>
-
+　<locales>
+　  <locale>en</locale>
+　  <locale>ja</locale>
+　  <locale>ko</locale>
+　</locales>
 </config>

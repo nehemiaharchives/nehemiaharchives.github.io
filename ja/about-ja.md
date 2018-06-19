@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 紹介
 permalink: /about/
 lang: ja
 ---
