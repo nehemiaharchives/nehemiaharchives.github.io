@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nehemiaharchives.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: nehemiaharchives
 github_username:  nehemiaharchives
+google_analytics: UA-1336739-8
 
 # Build settings
 markdown: kramdown
@@ -41,4 +42,3 @@ exclude:
   - vendor/ruby/
   - serve.bat
   - build.bat
-  
