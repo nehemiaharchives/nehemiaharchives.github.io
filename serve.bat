@@ -1,0 +1,1 @@
+chef exec bundle exec jekyll serve
